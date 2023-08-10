@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shea Wilson
 - 👀 I’m interested in Java Development and Gaming
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 Message me on Github
 
