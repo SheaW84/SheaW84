@@ -6,11 +6,11 @@
 
 I'm a passionate Backend Developer with experience in Java | React | Python | HTML | CSS | JavaScript. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+- 🌱 Currently learning: Django
+- 🔭 Working on: Coding Temple capstone project
+- 🌍 Languages: English | Java | Python | JavaScript | HTML | CSS
 - 📫 How to reach me: sheawilsn@gmail.com or through here on GitHub
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: I'm older than I look
 
 ## My Skills 🧠
 
