@@ -23,9 +23,9 @@ I'm a passionate Backend Developer with experience in Java | React | Python | HT
 
 <!-- Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*-->
 
-## Featured Projects 💻
+<!--## Featured Projects 💻
 
-<!--### [Project 1 Title](project_1_link)
+### [Project 1 Title](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
